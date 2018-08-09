@@ -1,4 +1,7 @@
 kdjhfdhvmkdhfmh
 
-some changes
+
+some other changes
 feature2 changes
+feature1 changes
+
